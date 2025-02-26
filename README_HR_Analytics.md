@@ -16,9 +16,13 @@ This Power BI dashboard provides:
 
 ## Key Insights from the Data
  High Turnover in Certain Departments: Sales & customer service roles have the highest attrition.
+
  Performance Correlation with Work Hours: Employees working overtime tend to show lower satisfaction.
+ 
  Diversity Representation: Gender diversity is well-balanced, but leadership roles need improvement.
+ 
  Salary Disparities Noted: Certain departments exhibit salary gaps that need further evaluation.
+ 
  Recruitment Challenges: Employee referrals have the highest retention rate compared to external
 
 ---
