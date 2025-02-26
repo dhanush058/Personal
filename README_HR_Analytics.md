@@ -8,10 +8,15 @@ This Power BI report enables HR professionals to **optimize workforce strategies
 ##  Features & Insights  
 This Power BI dashboard provides:  
 **Employee Demographics:** Breakdown of employees by age, gender, department, and location.  
+
 **Attrition & Retention Analysis:** Identifies key factors influencing employee turnover.  
+
 **Performance Metrics:** Tracks employee performance, productivity, and engagement levels.  
+
 **Diversity & Inclusion:** Monitors diversity statistics to ensure a balanced workforce.  
+
 **Compensation & Benefits Analysis:** Evaluates salary distribution and benefits adoption.  
+
 **Recruitment Trends:** Insights into hiring rates, sources, and onboarding efficiency. 
 
 ## Key Insights from the Data
