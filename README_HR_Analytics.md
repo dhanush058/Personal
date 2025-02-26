@@ -12,7 +12,14 @@ This Power BI dashboard provides:
 **Performance Metrics:** Tracks employee performance, productivity, and engagement levels.  
 **Diversity & Inclusion:** Monitors diversity statistics to ensure a balanced workforce.  
 **Compensation & Benefits Analysis:** Evaluates salary distribution and benefits adoption.  
-**Recruitment Trends:** Insights into hiring rates, sources, and onboarding efficiency.  
+**Recruitment Trends:** Insights into hiring rates, sources, and onboarding efficiency. 
+
+## Key Insights from the Data
+ High Turnover in Certain Departments: Sales & customer service roles have the highest attrition.
+ Performance Correlation with Work Hours: Employees working overtime tend to show lower satisfaction.
+ Diversity Representation: Gender diversity is well-balanced, but leadership roles need improvement.
+ Salary Disparities Noted: Certain departments exhibit salary gaps that need further evaluation.
+ Recruitment Challenges: Employee referrals have the highest retention rate compared to external
 
 ---
 
