@@ -48,7 +48,7 @@ Passengers from **different regions** have varying expectations, with North Amer
 | Technology | Purpose |  
 |------------|---------|  
 | **Tableau** | Data visualization and dashboard creation |  
-| **Python ** | Data preprocessing and sentiment analysis |
+| Python  | Data preprocessing and sentiment analysis |
 | **Excel/CSV** | Data source for Airline's records | 
 
 
