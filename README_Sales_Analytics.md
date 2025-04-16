@@ -22,8 +22,8 @@ Built with **Power BI**, this dashboard offers interactive reports to assess rev
 
 ## Key Insights from the Data  
 
--**Revenue Growth Trends:**  
---Sales have shown a **steady increase over the past quarters**, with peak performance during specific months.  
+- **Revenue Growth Trends:**  
+-- Sales have shown a **steady increase over the past quarters**, with peak performance during specific months.  
 
 **Top-Selling Products:**  
 Certain product categories consistently generate **high revenue**, while others underperform, suggesting a need for marketing adjustments.  
