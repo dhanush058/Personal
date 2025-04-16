@@ -7,20 +7,20 @@ This Power BI report enables HR professionals to **optimize workforce strategies
 ##  Features: 
 - Created an interactive dashboard with department-level filters
 
--Built DAX measures to calculate Attrition Rate, Avg. Tenure, and Satisfaction Score
+- Built DAX measures to calculate Attrition Rate, Avg. Tenure, and Satisfaction Score
 
--Designed KPI cards, bar charts, and heat maps for intuitive storytelling
+- Designed KPI cards, bar charts, and heat maps for intuitive storytelling
 
-**Integrated drill-through features for detailed employee-level insights
+- Integrated drill-through features for detailed employee-level insights
 
 ## Key Insights from the Data:
-Identified departments with highest attrition rates
+- Identified departments with highest attrition rates
 
-Revealed correlation between low satisfaction and increased attrition
+- Revealed correlation between low satisfaction and increased attrition
 
-Highlighted tenure patterns across different performance bands
+- Highlighted tenure patterns across different performance bands
 
-Enabled HR teams to proactively act on early attrition indicators
+- Enabled HR teams to proactively act on early attrition indicators
 
 ---
 
