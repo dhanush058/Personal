@@ -35,7 +35,7 @@ Some regions significantly **outperform others**, indicating potential for targe
 A large percentage of revenue comes from **repeat customers**, highlighting the importance of loyalty programs.  
 
 **Profitability Analysis:**  
-High revenue does not always correlate with **high profitability**—some products have thin margins despite strong sales.  
+High revenue does not always correlate with **high profitability** some products have thin margins despite strong sales.  
 
 **Seasonal Effects on Sales:**  
 Sales spikes during **holiday seasons and promotional events** suggest opportunities for better marketing alignment.  
