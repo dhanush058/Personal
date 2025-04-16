@@ -24,20 +24,15 @@ Built with **Power BI**, this dashboard offers interactive reports to assess rev
 
 - **Revenue Growth Trends:**  Sales have shown a **steady increase over the past quarters**, with peak performance during specific months.  
 
-**Top-Selling Products:**  
-Certain product categories consistently generate **high revenue**, while others underperform, suggesting a need for marketing adjustments.  
+- **Top-Selling Products:**  Certain product categories consistently generate **high revenue**, while others underperform, suggesting a need for marketing adjustments.  
 
-**Regional Performance Variation:**  
-Some regions significantly **outperform others**, indicating potential for targeted expansion strategies.  
+- **Regional Performance Variation:**  Some regions significantly **outperform others**, indicating potential for targeted expansion strategies.  
 
-**Customer Retention vs. Acquisition:**  
-A large percentage of revenue comes from **repeat customers**, highlighting the importance of loyalty programs.  
+- **Customer Retention vs. Acquisition:**  A large percentage of revenue comes from **repeat customers**, highlighting the importance of loyalty programs.  
 
-**Profitability Analysis:**  
-High revenue does not always correlate with **high profitability** some products have thin margins despite strong sales.  
+- **Profitability Analysis:**  High revenue does not always correlate with **high profitability** some products have thin margins despite strong sales.  
 
-**Seasonal Effects on Sales:**  
-Sales spikes during **holiday seasons and promotional events** suggest opportunities for better marketing alignment.  
+- **Seasonal Effects on Sales:**  Sales spikes during **holiday seasons and promotional events** suggest opportunities for better marketing alignment.  
 
 ---
 
