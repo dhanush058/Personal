@@ -10,29 +10,35 @@ Built with **Power BI**, this dashboard offers interactive reports to assess rev
 ## Features & Insights  
 
 ###  **Key Features**   
-- **Total Sales Overview:** Tracks overall revenue generation across different time periods.  
-- **Product Performance Analysis:** Identifies **top-performing** and **low-performing** products.  
-- **Regional Sales Insights:** Compares sales distribution across different locations.  
-- **Customer Segmentation:** Analyzes **customer demographics, purchase frequency, and behavior**.  
-- **Sales Trend Analysis:** Displays historical sales patterns to identify **seasonal trends**.  
-- **Profitability Metrics:** Evaluates **gross profit, net profit, and profit margins**.  
-- **Interactive Filtering:** Allows users to **filter data by product, region, and time period**.  
+- Total Sales Overview: Tracks overall revenue generation across current and previous years.
+
+- Product Performance Analysis: Highlights top-performing and underperforming products by comparing year-over-year sales.
+
+- Regional Sales Insights: Compares sales distribution across cities like Christchurch, Hamilton, and Auckland.
+
+- Customer Segmentation: Analyzes sales contribution by key customers to understand loyalty and retention.
+
+- Sales Trend Analysis: Displays monthly sales patterns to identify potential seasonal fluctuations.
+
+- Profitability Metrics: Evaluates profit breakdown by sales channels (Wholesale, Distributor, Export).
+
+- Interactive Filtering: Enables users to filter data by Date, City, Product Name, and Channel for dynamic exploration. 
 
 ---
 
 ## Key Insights from the Data  
 
-- **Revenue Growth Trends:**  Sales have shown a **steady increase over the past quarters**, with peak performance during specific months.  
+- Sales dropped by ~$307K (approx. 10%) compared to the previous year, despite a healthy total profit of 1M.
 
-- **Top-Selling Products:**  Certain product categories consistently generate **high revenue**, while others underperform, suggesting a need for marketing adjustments.  
+- Christchurch and Hamilton were the top-performing cities, contributing 30.8% and 28.4% of total sales, respectively.
 
-- **Regional Performance Variation:**  Some regions significantly **outperform others**, indicating potential for targeted expansion strategies.  
+- Wholesale channels delivered the highest profit, while Export underperformed significantly.
 
-- **Customer Retention vs. Acquisition:**  A large percentage of revenue comes from **repeat customers**, highlighting the importance of loyalty programs.  
+- Product 7 was the top seller, generating nearly 1M in revenue, while several others showed declining trends.
 
-- **Profitability Analysis:**  High revenue does not always correlate with **high profitability** some products have thin margins despite strong sales.  
+- Client 'Ei' had the highest repeat business, contributing over 200K in sales, followed by Victory Ltd and OHTA’s Corp.
 
-- **Seasonal Effects on Sales:**  Sales spikes during **holiday seasons and promotional events** suggest opportunities for better marketing alignment.  
+- March to May shows relatively stable sales, but with a noticeable year-over-year decline across most products.
 
 ---
 
