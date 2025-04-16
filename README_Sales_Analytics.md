@@ -9,7 +9,7 @@ Built with **Power BI**, this dashboard offers interactive reports to assess rev
 
 ## Features & Insights  
 
-###  **Key Features**  
+###  **Key Features**   
 - **Total Sales Overview:** Tracks overall revenue generation across different time periods.  
 - **Product Performance Analysis:** Identifies **top-performing** and **low-performing** products.  
 - **Regional Sales Insights:** Compares sales distribution across different locations.  
