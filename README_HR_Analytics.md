@@ -1,5 +1,6 @@
 # HR Analytics Dashboard - Power BI  
-
+##  Dataset:
+- Source: [https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)
 ##  Project Overview  
 The **HR Analytics Dashboard** is designed to provide **data-driven insights** into an organization's human resources. By analyzing key HR metrics, this dashboard helps stakeholders **monitor workforce performance, retention trends, diversity metrics, and employee satisfaction** to support informed decision-making.  
 
