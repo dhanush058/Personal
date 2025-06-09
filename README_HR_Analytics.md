@@ -15,13 +15,15 @@ This Power BI report enables HR professionals to **optimize workforce strategies
 - Integrated drill-through features for detailed employee-level insights
 
 ## Key Insights from the Data:
-- Identified departments with highest attrition rates
+- High Attrition Concentration: Out of 1,470 employees, 16.12% (237) left the company with 49% of them aged 26–35, indicating early-career attrition is a critical concern.
 
-- Revealed correlation between low satisfaction and increased attrition
+- Low Salary Drives Attrition: 68.8% (163 employees) who left were earning less than $5K/month, showing a strong link between low compensation and turnover.
 
-- Highlighted tenure patterns across different performance bands
+- Job Roles Most Affected: Laboratory Technicians (62) and Sales Executives (57) had the highest attrition, suggesting potential issues with workload, recognition, or support.
 
-- Enabled HR teams to proactively act on early attrition indicators
+- Education Field Impact: Employees from Life Sciences (37.55%) and Medical (26.58%) backgrounds represented the bulk of attrition, highlighting targeted retention needs in these fields.
+
+- Low Job Satisfaction = High Attrition: Roles like Sales Executive and Research Scientist had the most employees rating satisfaction as 1 or 2, aligning with their high attrition counts.
 
 ---
 
