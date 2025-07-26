@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project is a **relational database system** I developed to manage a city-wide **Bike Sharing Service**. It models and supports core operations such as bike rentals, customer tracking, station logistics, fee calculation, and maintenance history.
+This project is a **relational database system** we developed to manage a city-wide **Bike Sharing Service**. It models and supports core operations such as bike rentals, customer tracking, station logistics, fee calculation, and maintenance history.
 
-The schema is implemented using **SQL DDL**, and I populated it with mock data using `DataInsertion.sql` to simulate realistic business scenarios.
+The schema is implemented using **SQL DDL**, and we populated it with mock data using `DataInsertion.sql` to simulate realistic business scenarios.
 
 ## Database Schema
 
@@ -37,7 +37,7 @@ The system includes the following key entities:
    - Trip-fee mappings
 
 3. **Important Notes**  
-   I’ve disabled parallel DML at the beginning of the script for safer bulk operations.  
+   We’ve disabled parallel DML at the beginning of the script for safer bulk operations.  
    For the maintenance log section, make sure server output is enabled to view the `DBMS_OUTPUT.PUT_LINE` messages.
 
 ## Sample Use Cases
@@ -50,25 +50,19 @@ The system includes the following key entities:
 
 ## Security Note
 
-To keep the focus on database structure, I’ve stored card numbers and SSNs as plain text in this mock version. In production, this data should always be encrypted, masked, or tokenized for security and compliance.
+To keep the focus on database structure, we’ve stored card numbers and SSNs as plain text in this mock version. In production, this data should always be encrypted, masked, or tokenized for security and compliance.
 
 ## Technologies Used
 
 - SQL (DDL and DML)
 - Oracle DBMS (compatible with other SQL-based systems)
 
-## Files Included
+## Team Notes
 
-- `ProjectV2.ddl` – Schema definitions
-- `DataInsertion.sql` – Sample data insertion script
-
-## Notes from Me
-
-I built this project as part of a hands-on exercise in database design and logic. It can be expanded further by adding:
+We built this project as part of a collaborative effort to explore database design and logic. It is designed to be extensible, and future improvements could include:
 
 - A `USERS` table for login/authentication
 - Real-time dashboards or reporting layers
 - Trigger-based fee calculation
 - Integration with a web or mobile frontend
 
-Feel free to use this project as a foundation or reference. Let me know if you'd like help extending or customizing it further.
