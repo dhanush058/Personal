@@ -6,8 +6,6 @@ This project is a **relational database system** I developed to manage a city-wi
 
 The schema is implemented using **SQL DDL**, and I populated it with mock data using `DataInsertion.sql` to simulate realistic business scenarios.
 
----
-
 ## Database Schema
 
 The system includes the following key entities:
@@ -22,47 +20,55 @@ The system includes the following key entities:
 - **FEES**: Contains hourly rental fees and their dates of implementation.
 - **TRIP_FEE_MAPPING**: Links each trip to its corresponding fee record.
 
----
-
 ## Setup Instructions
 
 1. **Create the Tables**  
-   Start by running the `ProjectV2.ddl` script to create all tables and apply constraints.
+   Run the `ProjectV2.ddl` script to create all tables and apply constraints.
 
 2. **Insert Sample Data**  
-   Execute `DataInsertion.sql` to load mock data into the database:
+   Execute the `DataInsertion.sql` file to insert mock data into the database. It includes:
    - 5 Stations
    - 4 Bikes
    - 5 Customers
    - 5 Trips
    - Maintenance records and logs
    - Multiple fee records
-   - Card information and trip-fee mappings
+   - Card information
+   - Trip-fee mappings
 
-3. **Important Execution Notes**  
-   I’ve disabled parallel DML at the beginning of the script for safe bulk inserts.  
-   The maintenance log section uses `DBMS_OUTPUT.PUT_LINE` — make sure to enable server output to see the results.
-
----
+3. **Important Notes**  
+   I’ve disabled parallel DML at the beginning of the script for safer bulk operations.  
+   For the maintenance log section, make sure server output is enabled to view the `DBMS_OUTPUT.PUT_LINE` messages.
 
 ## Sample Use Cases
 
 - **Check bike availability** by querying the `BIKES` table where `status = 'Available'`.
-- **View customer trip history** by joining `TRIPS` and `CUSTOMERS`.
-- **Audit past maintenance** using `MAINTENANCE_LOG`.
+- **View customer trip history** using a join between `TRIPS` and `CUSTOMERS`.
+- **Audit past maintenance** with data from `MAINTENANCE_LOG`.
 - **Calculate trip cost** by joining `TRIP_FEE_MAPPING` and `FEES`.
-- **Update bike status or location** after each trip using standard update statements.
-
----
+- **Update bike status or location** after a trip using standard `UPDATE` queries.
 
 ## Security Note
 
-To keep things simple, I’ve used plain text for sensitive data like card numbers and SSNs.  
-In a real-world application, this would be encrypted, masked, or tokenized to protect user privacy.
-
----
+To keep the focus on database structure, I’ve stored card numbers and SSNs as plain text in this mock version. In production, this data should always be encrypted, masked, or tokenized for security and compliance.
 
 ## Technologies Used
 
 - SQL (DDL and DML)
 - Oracle DBMS (compatible with other SQL-based systems)
+
+## Files Included
+
+- `ProjectV2.ddl` – Schema definitions
+- `DataInsertion.sql` – Sample data insertion script
+
+## Notes from Me
+
+I built this project as part of a hands-on exercise in database design and logic. It can be expanded further by adding:
+
+- A `USERS` table for login/authentication
+- Real-time dashboards or reporting layers
+- Trigger-based fee calculation
+- Integration with a web or mobile frontend
+
+Feel free to use this project as a foundation or reference. Let me know if you'd like help extending or customizing it further.
