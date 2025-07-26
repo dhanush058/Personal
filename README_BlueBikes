@@ -1,0 +1,68 @@
+# Bike Sharing Management System
+
+## Project Overview
+
+This project is a **relational database system** I developed to manage a city-wide **Bike Sharing Service**. It models and supports core operations such as bike rentals, customer tracking, station logistics, fee calculation, and maintenance history.
+
+The schema is implemented using **SQL DDL**, and I populated it with mock data using `DataInsertion.sql` to simulate realistic business scenarios.
+
+---
+
+## Database Schema
+
+The system includes the following key entities:
+
+- **STATIONS**: Stores bike station details like name, location, and capacity.
+- **BIKES**: Contains data about each bike including model, status, station location, and purchase date.
+- **CUSTOMERS**: Holds customer information including names and contact details.
+- **TRIPS**: Tracks all bike rentals—start and end times, associated customer, bike, and stations.
+- **MAINTENANCE**: Records maintenance tasks performed on bikes, including the operator and description.
+- **MAINTENANCE_LOG**: Maintains logs of maintenance activities with timestamps for better traceability.
+- **CARD**: Stores simplified card information linked to customers.
+- **FEES**: Contains hourly rental fees and their dates of implementation.
+- **TRIP_FEE_MAPPING**: Links each trip to its corresponding fee record.
+
+---
+
+## Setup Instructions
+
+1. **Create the Tables**  
+   Start by running the `ProjectV2.ddl` script to create all tables and apply constraints.
+
+2. **Insert Sample Data**  
+   Execute `DataInsertion.sql` to load mock data into the database:
+   - 5 Stations
+   - 4 Bikes
+   - 5 Customers
+   - 5 Trips
+   - Maintenance records and logs
+   - Multiple fee records
+   - Card information and trip-fee mappings
+
+3. **Important Execution Notes**  
+   I’ve disabled parallel DML at the beginning of the script for safe bulk inserts.  
+   The maintenance log section uses `DBMS_OUTPUT.PUT_LINE` — make sure to enable server output to see the results.
+
+---
+
+## Sample Use Cases
+
+- **Check bike availability** by querying the `BIKES` table where `status = 'Available'`.
+- **View customer trip history** by joining `TRIPS` and `CUSTOMERS`.
+- **Audit past maintenance** using `MAINTENANCE_LOG`.
+- **Calculate trip cost** by joining `TRIP_FEE_MAPPING` and `FEES`.
+- **Update bike status or location** after each trip using standard update statements.
+
+---
+
+## Security Note
+
+To keep things simple, I’ve used plain text for sensitive data like card numbers and SSNs.  
+In a real-world application, this would be encrypted, masked, or tokenized to protect user privacy.
+
+---
+
+## Technologies Used
+
+- SQL (DDL and DML)
+- Oracle DBMS (compatible with other SQL-based systems)
