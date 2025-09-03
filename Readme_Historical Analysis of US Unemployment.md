@@ -3,6 +3,21 @@ Project: A Historical Analysis of US Unemployment (1948-2021):
 ## Project Overview:
 This capstone project, created for an entry-level data analyst portfolio, provides a comprehensive historical analysis of the US unemployment rate from 1948 to 2021. The primary goal is to demonstrate end-to-end data analysis skills, including data cleaning, transformation, and visualization, to uncover key trends and the impact of significant economic events on different demographic groups.
 
+## Tools and Technologies:
+- Python: The primary programming language used for all data manipulation and analysis tasks.
+
+- Pandas: A powerful library used for data loading, cleaning, and transformation.
+
+- Matplotlib: Used for creating static, high-quality visualizations to show long-term trends.
+
+- Seaborn: A library built on top of Matplotlib, used for creating more complex and aesthetically pleasing plots like the bar and box plots.
+
+- Google Colab: The cloud-based environment where the Python code was executed.
+
+- Git/GitHub: Used for version control and hosting the project repository.
+
+- Kaggle: The source of the raw dataset.
+
 The project addresses the following key questions:
 
 - What are the overall long-term trends in US unemployment?
