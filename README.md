@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dhanushnandish78.wixsite.com/my-site-7](https://dhanushnandish78.wixsite.com/my-site-7)
 
-- 💬 Ask me about **SQL, Power BI, Tableau**
+- 💬 Ask me about **SQL, Power BI, Tableau, Python Libraries, Excel**
 
 - 📫 How to reach me **nandish.d@northeastern.edu**
 
