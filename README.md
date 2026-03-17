@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nandish.d@northeastern.edu**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/8ce210e8a933597b/ESLO3A3baPRGgIRjjxLlJ9EBR-vr4Ev1LAfAlBm_xgzQ5Q?e=qL2RFJ](https://1drv.ms/b/c/8ce210e8a933597b/ESLO3A3baPRGgIRjjxLlJ9EBR-vr4Ev1LAfAlBm_xgzQ5Q?e=qL2RFJ)
+- 📄 Know about my experiences [https://1drv.ms/b/c/8ce210e8a933597b/IQAP_tUa8USOT4WYIBhhfhySAafc42_2gkUVIsmGyKW_liM?e=nQRUVy](https://1drv.ms/b/c/8ce210e8a933597b/IQAP_tUa8USOT4WYIBhhfhySAafc42_2gkUVIsmGyKW_liM?e=nQRUVy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
